@@ -2,10 +2,10 @@
 <img src="https://media.tenor.com/L0k1211SDnoAAAAd/cherry-blossoms-japan.gif" />
 </p>
 
-<h4 align="center">I'm Ericka Razafimbahiny, a programming enthusiast and student based in Madagascar. 👨‍💻</h4>
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kosugi+Maru&size=15&pause=1000&color=F7C2F3&background=FFFFFF00&center=true&vCenter=true&random=false&width=447&lines=Hi%2C+I'm+Ericka+Razafimbahiny%2C+a+coding+enthusiast!+%F0%9F%9A%80%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h1>
 
-#### 📚 Education
-- Currently pursuing my degree in Computer Science at IT University.
 
 #### 🌟 Passion
 I am deeply passionate about creating innovative solutions and exploring the endless possibilities of coding. Always excited to learn and grow in the ever-evolving tech landscape!
