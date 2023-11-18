@@ -13,7 +13,7 @@ I am deeply passionate about creating innovative solutions and exploring the end
 #### 📖 Hobbies
 Apart from coding, you can find me:
 - 📚 Reading books: I love diving into novels and tech-related literature.
-- 🎬 Watching films: A cinephile at heart, exploring various genres and storytelling techniques.
+- 🎬 Watching movies: A cinephile at heart, exploring various genres and storytelling techniques.
 
 
 #### 📫 Let's Connect
